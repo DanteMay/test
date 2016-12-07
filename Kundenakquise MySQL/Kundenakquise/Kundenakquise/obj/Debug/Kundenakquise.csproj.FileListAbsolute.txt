@@ -1,0 +1,11 @@
+C:\Users\Raabe\Source\Repos\Kundenakquise MySQL\Kundenakquise\Kundenakquise\bin\Debug\Kundenakquise.exe.config
+C:\Users\Raabe\Source\Repos\Kundenakquise MySQL\Kundenakquise\Kundenakquise\bin\Debug\Datenbank1.accdb
+C:\Users\Raabe\Source\Repos\Kundenakquise MySQL\Kundenakquise\Kundenakquise\bin\Debug\Kundenakquise.exe
+C:\Users\Raabe\Source\Repos\Kundenakquise MySQL\Kundenakquise\Kundenakquise\bin\Debug\Kundenakquise.pdb
+C:\Users\Raabe\Source\Repos\Kundenakquise MySQL\Kundenakquise\Kundenakquise\obj\Debug\Kundenakquise.csprojResolveAssemblyReference.cache
+C:\Users\Raabe\Source\Repos\Kundenakquise MySQL\Kundenakquise\Kundenakquise\obj\Debug\Kundenakquise.Form1.resources
+C:\Users\Raabe\Source\Repos\Kundenakquise MySQL\Kundenakquise\Kundenakquise\obj\Debug\Kundenakquise.Properties.Resources.resources
+C:\Users\Raabe\Source\Repos\Kundenakquise MySQL\Kundenakquise\Kundenakquise\obj\Debug\Kundenakquise.csproj.GenerateResource.Cache
+C:\Users\Raabe\Source\Repos\Kundenakquise MySQL\Kundenakquise\Kundenakquise\obj\Debug\Kundenakquise.exe
+C:\Users\Raabe\Source\Repos\Kundenakquise MySQL\Kundenakquise\Kundenakquise\obj\Debug\Kundenakquise.pdb
+C:\Users\Raabe\Source\Repos\Kundenakquise MySQL\Kundenakquise\Kundenakquise\obj\Debug\Kundenakquise.btnsafe.resources
